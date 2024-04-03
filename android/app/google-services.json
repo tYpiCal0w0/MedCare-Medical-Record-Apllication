@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680814119355",
+    "project_id": "bcmedicalrecords",
+    "storage_bucket": "bcmedicalrecords.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680814119355:android:64dc5b84a442c082265c9e",
+        "android_client_info": {
+          "package_name": "com.example.bcmedicalrecords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaXFvynF7jVQXOBd_SWGi6oui51yEqr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
